@@ -1,18 +1,12 @@
-## 
+## Practicas de Git
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Bienvenidos al reposirio de practicas de git, donde utilizaremos la linea de comandos para la gestion del repositorio.
 
-## Folder Structure
+## Practica GitHub
 
-The workspace contains two folders by default, where:
+GitHub es el siti web por excelencia, para alojamiento de los trabajos de los programadores, siendo esta la denominada red social del codigo.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Practica Java
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Es uno de los lenguajes de programacion, mas popular para el desarrollo empresarial, donde se encuentran soportados diversa cantidad de sistemas. 
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
